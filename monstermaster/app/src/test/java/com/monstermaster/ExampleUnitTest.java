@@ -1,4 +1,4 @@
-package monstermaster.com.monstermaster;
+package com.monstermaster;
 
 import org.junit.Test;
 
